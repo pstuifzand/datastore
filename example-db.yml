@@ -1,0 +1,4 @@
+Host: 'hostname'
+User: 'username'
+Pass: 'password'
+DB: 'databasename'
